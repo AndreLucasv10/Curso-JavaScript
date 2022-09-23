@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(83, 165, 228);
+}
+
+header {
+    /*Titulo no cento*/
+    color: rgb(253, 253, 253);
+    text-align: center;
+}
+
+section {
+    /* Quadradinho Branco */
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(228, 224, 224);
+
+
+    border-radius: 10px
+}
+
+div {
+    
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+select#flista{
+    width: 150px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
